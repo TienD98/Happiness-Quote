@@ -1,0 +1,19 @@
+.custom {
+    width: 25%
+}
+
+@media (max-width: 767px) {
+    .custom {
+        width: 75%;
+    }
+}
+
+@media (min-width: 992px) {
+    .custom {
+        width: 25%;
+    }
+}
+
+body {
+    background: linear-gradient(to right, #F4EEFF, #DCD6F7, #A6B1E1)
+}
