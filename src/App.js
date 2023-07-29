@@ -1,7 +1,7 @@
 import Quote from "./features/Quote";
 function App() {
   return (
-    <div className="App container-fluid">
+    <div className="App">
       <Quote />
     </div>
   )
