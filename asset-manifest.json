@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Happiness-Quote/static/js/main.6474dccb.js",
+    "main.js": "/Happiness-Quote/static/js/main.d4fb45c4.js",
     "index.html": "/Happiness-Quote/index.html",
-    "main.6474dccb.js.map": "/Happiness-Quote/static/js/main.6474dccb.js.map"
+    "main.d4fb45c4.js.map": "/Happiness-Quote/static/js/main.d4fb45c4.js.map"
   },
   "entrypoints": [
-    "static/js/main.6474dccb.js"
+    "static/js/main.d4fb45c4.js"
   ]
 }
